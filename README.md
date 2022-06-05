@@ -1,6 +1,6 @@
 # Traffic-Sign-Classification
 
-**Abstract: **
+### Abstract
 
 Traffic symbols are common in our daily life. It includes information that ensures safety and endless number of people that surround us. 
 
